@@ -1,0 +1,9 @@
+v2
+0 0 512 512 0 2/nauvis/night/20/-1/-3.png
+0 200 512 512 0 2/nauvis/night/20/-1/-1.png
+136 0 512 512 4 2/nauvis/night/20/0/-3.png
+0 0 512 512 1 2/nauvis/night/20/-2/-3.png
+136 0 512 512 c 2/nauvis/night/20/0/-2.png
+0 0 512 512 3 2/nauvis/night/20/-2/-2.png
+136 200 512 512 8 2/nauvis/night/20/0/-1.png
+0 200 512 512 2 2/nauvis/night/20/-2/-1.png
